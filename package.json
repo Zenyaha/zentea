@@ -1,10 +1,8 @@
 {
   "name": "zentea",
-  "version": "1.1.4",
+  "version": "1.1.5",
   "private": false,
-  "publishConfig": {
-    "registry":"https://npm.pkg.github.com/Zenyaha"
-  },  
+  
   "scripts": {
     "dev": "next dev",
     "build": "next build",
